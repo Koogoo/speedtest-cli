@@ -1,5 +1,10 @@
 speedtest-cli
 =============
+=====================================================================================
+测试:wget https://raw.github.com/sivel/speedtest-cli/master/speedtest_cli.py
+        python speedtest_cli.py
+
+=====================================================================================
 
 Command line interface for testing internet bandwidth using
 speedtest.net
