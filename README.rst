@@ -1,3 +1,7 @@
+wget https://raw.github.com/sivel/speedtest-cli/master/speedtest_cli.py
+python speedtest_cli.py
+=======================================================================
+
 speedtest-cli
 =============
 
